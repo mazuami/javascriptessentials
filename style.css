@@ -1,0 +1,20 @@
+.keys {
+    display:flex;
+    flex:1;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.key{
+    border: .1rem solid black;
+    border-radius: .3rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+    padding: 1rem .5rem;
+    width: 10rem;
+    text-align: center;
+    color:brown;
+    background:rgba(187, 133, 227, 0.4);
+    text-shadow: 0 0 .5rem black;
+}
